@@ -2,3 +2,6 @@
 Proyecto en el cual se realizara la conexion de un repositorio local en Git con un repositorio en GitHub
 Autor: Daniel Márquez García
 Fecha: 22/11/2025
+
+Modificacion Realizada desde GitHub de forma remota
+Asignatura: Fundamentos de Programacion
